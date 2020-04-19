@@ -1,0 +1,15 @@
+# Compiled files
+*.tfstate
+*.tfstate.backup
+
+# Module directory
+.terraform/
+
+# go deps
+vendor/
+
+# Tests directory
+.test-data/
+
+# Workaround for go test
+main.go

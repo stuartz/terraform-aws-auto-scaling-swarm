@@ -1,0 +1,10 @@
+.git
+*.git
+.vscode
+*/.vscode
+*.terraform*
+*terraform.tfvars
+*examples*
+*.git.bak*
+*.pem
+
